@@ -1,0 +1,31 @@
+Hallo<break time="1000ms"/>Hallo<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">你好</voice><break time="1000ms"/>
+Dag<break time="1000ms"/>Dag<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">再见</voice><break time="1000ms"/>
+Ja<break time="1000ms"/>Ja<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">是</voice><break time="1000ms"/>
+Nee<break time="1000ms"/>Nee<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">不是</voice><break time="1000ms"/>
+Alstublieft<break time="1000ms"/>Alstublieft<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">请</voice><break time="1000ms"/>
+Dank u<break time="1000ms"/>Dank u<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">谢谢</voice><break time="1000ms"/>
+Sorry<break time="1000ms"/>Sorry<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">对不起</voice><break time="1000ms"/>
+Geen dank<break time="1000ms"/>Geen dank<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">不客气</voice><break time="1000ms"/>
+Mama<break time="1000ms"/>Mama<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">妈妈</voice><break time="1000ms"/>
+Papa<break time="1000ms"/>Papa<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">爸爸</voice><break time="1000ms"/>
+School<break time="1000ms"/>School<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">学校</voice><break time="1000ms"/>
+Boek<break time="1000ms"/>Boek<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">书</voice><break time="1000ms"/>
+Kat<break time="1000ms"/>Kat<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">猫</voice><break time="1000ms"/>
+Hond<break time="1000ms"/>Hond<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">狗</voice><break time="1000ms"/>
+Appel<break time="1000ms"/>Appel<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">苹果</voice><break time="1000ms"/>
+Water<break time="1000ms"/>Water<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">水</voice><break time="1000ms"/>
+Lopen<break time="1000ms"/>Lopen<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">走</voice><break time="1000ms"/>
+Eten<break time="1000ms"/>Eten<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">吃</voice><break time="1000ms"/>
+Drinken<break time="1000ms"/>Drinken<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">喝</voice><break time="1000ms"/>
+Vriend<break time="1000ms"/>Vriend<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">朋友</voice><break time="1000ms"/>
+Ik ben moe<break time="1000ms"/>Ik ben moe<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我累了</voice><break time="1000ms"/>
+Mag ik dit hebben?<break time="1000ms"/>Mag ik dit hebben?<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我可以拿这个吗？</voice><break time="1000ms"/>
+Ik hou van jou<break time="1000ms"/>Ik hou van jou<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我爱你</voice><break time="1000ms"/>
+Waar is de wc?<break time="1000ms"/>Waar is de wc?<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">厕所在哪里？</voice><break time="1000ms"/>
+Kan ik helpen?<break time="1000ms"/>Kan ik helpen?<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我可以帮忙吗？</voice><break time="1000ms"/>
+Wat is jouw naam?<break time="1000ms"/>Wat is jouw naam?<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">你叫什么名字？</voice><break time="1000ms"/>
+Hoe laat is het?<break time="1000ms"/>Hoe laat is het?<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">现在几点了？</voice><break time="1000ms"/>
+Ik heb honger<break time="1000ms"/>Ik heb honger<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我饿了</voice><break time="1000ms"/>
+Ik heb dorst<break time="1000ms"/>Ik heb dorst<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我渴了</voice><break time="1000ms"/>
+Ik wil spelen<break time="1000ms"/>Ik wil spelen<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">我想玩</voice><break time="1000ms"/>
+Goedemorgen<break time="1000ms"/>Goedemorgen<break time="1000ms"/><voice name="cmn-CN-Wavenet-D">早上好</voice><break time="1000ms"/>
